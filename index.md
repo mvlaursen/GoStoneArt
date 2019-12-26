@@ -12,13 +12,13 @@ Go Stone Art does collect information for purposes of app maintenance and bug fi
 
 Looks like we have some Star Wars fans:
 
-![Go Stone Art drawing of R2-D2 from Star Wars](/assets/Artoo_by_Kaylee.jpg "Artoo, by Kaylee")
+![Go Stone Art drawing of R2-D2 from Star Wars](./assets/Artoo_by_Kaylee.jpg "Artoo, by Kaylee")
 
-![Go Stone Art drawing of BB8 from Star Wars](/assets/BB8_by_Neil "BB8, by Neil")
+![Go Stone Art drawing of BB8 from Star Wars](./assets/BB8_by_Neil "BB8, by Neil")
 
-![Go Stone Art drawing of Greedo from Star Wars](/assets/Greedo_by_Neil.jpg "Greedo, by Neil")
+![Go Stone Art drawing of Greedo from Star Wars](./assets/Greedo_by_Neil.jpg "Greedo, by Neil")
 
-![Go Stone Art drawing of a Jedi from Star Wars](/assets/Jedi_by_Harry "Jedi, by Harry")
+![Go Stone Art drawing of a Jedi from Star Wars](./assets/Jedi_by_Harry "Jedi, by Harry")
 
 ### GitHub Repository
 
