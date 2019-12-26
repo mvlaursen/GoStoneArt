@@ -8,6 +8,14 @@ Go Stone Art does collect information for purposes of app maintenance and bug fi
 
 *Updated December 17th, 2019 [v1.0.0]*
 
+### Gallery
+
+Send us your pictures at PUT EMAIL ADDRESS HERE and we'll post them here!
+
+Looks like we have some Star Wars fans:
+
+![Artoo, by Kaylee](./assets/Artoo_by_Kaylee.jpg)
+
 ### GitHub Repository
 
 The source files for the Go Stone Art app are located in a public GitHub repository: <https://github.com/mvlaursen/StoneArt>
